@@ -1,0 +1,17 @@
+build/
+build_rel/
+*.exe
+*.obj
+*.o
+*.dll
+*.lib
+*.a
+*.so
+*.pyc
+__pycache__/
+.vscode/
+.idea/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
